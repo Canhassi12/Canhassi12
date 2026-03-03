@@ -7,7 +7,7 @@
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
 ## About me:
-- 🎂 21 yo!
+- 🎂 22 yo!
 - 💻 Software engineer.
 
-My name is Arthur Canhassi, I'm 21 years old. I study a little about everything, but what I like the most is backend development. My main technologies are PHP, Rust and Golang. I am part of the best developer community, He4rtDevelopers, as a community manager, developing projects, and collaborating with all community activities.💜
+My name is Arthur Canhassi, I'm 22 years old. I study a little about everything, but what I like the most is backend development. My main technologies are PHP, Rust and Golang. I am part of the best developer community, He4rtDevelopers, as a community manager, developing projects, and collaborating with all community activities.💜
